@@ -7,4 +7,6 @@ JavasScript is also used to create functions that filter the data table automati
 When a user types in a date, the data table will be filtered based on the date inserted.
 If the user wants to know UFOs sightings by city, the table can also be filtered based on that alone or in combination with a particular date as shown in the picture below.
 
+![ufos_sighting1.png](ufos_sighting1.png)
+
 More so, the user has the flexibility to filter the table based on the country, state, shape, city, and/or date, depending on the goals of the users.
