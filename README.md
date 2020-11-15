@@ -11,3 +11,5 @@ If the user wants to know UFOs sightings by city, the table can also be filtered
 
 More so, the user has the flexibility to filter the table based on the country, state, shape, city, and/or date, depending on the goals of the users.
 ![ufo_sighting3.png](ufo_sighting3.png)
+
+## Summary
