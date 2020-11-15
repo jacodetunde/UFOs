@@ -13,3 +13,6 @@ More so, the user has the flexibility to filter the table based on the country, 
 ![ufo_sighting3.png](ufo_sighting3.png)
 ## Summary
 Despite how responsive and intuitive this website is, it is just one page website. Also, it has no additional links for references.
+This can be improved, by adding additional pages of other articles that has been written on UFOs sightings. 
+Images of UFOs can be added to the webpage to aid the understanding of the users of the page who have little understanding about UFOs.
+
