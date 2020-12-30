@@ -6,6 +6,7 @@ To create a responsive webpage where users can filter the information about UFO 
 ## Technologies
 - Python
 - Pandas, Jupyter
+- Flasks
 - HTML
 - JavaScript
 ## Project Description
