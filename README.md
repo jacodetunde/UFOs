@@ -1,5 +1,14 @@
 # UFOs
-## Overview
+## Project Objective
+To create a responsive webpage where users can filter the information about UFO sightings in the any country.
+## Method Used
+- Data Visualization
+## Technologies
+- Python
+- Pandas, Jupyter
+- HTML
+- JavaScript
+## Project Description
 The purpose of this project is to create a responsive webpage with a dynamic table that will allow users or visitors of the webpage to filter for multiple criteria at the same time such as date, city, state, country and shape, in order to get indepth analysis of UFOs sightings.
 ## Results
 HTML, CSS, and JavaScript were used to create a responsive and aesthetic webpage, create filter forms and data table as below picture.
