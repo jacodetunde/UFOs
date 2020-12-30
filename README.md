@@ -1,4 +1,4 @@
-# UFOs
+# Analysis of UFOs Sighting 
 ## Project Objective
 To create a responsive webpage where users can filter the information about UFO sightings in the any country.
 ## Method Used
